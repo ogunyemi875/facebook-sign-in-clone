@@ -1,0 +1,36 @@
+
+h4{text-align: center; font-size: small;padding:1%; font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif ; background-color: rgba(237, 245, 121, 0.938);color: rgba(11, 11, 158, 0.616); height: 10px;}
+.fb{text-align: center;color: blue;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+
+input{width: 100%;height: 50px; padding:0%; text-indent: 1cm;  border:1px solid grey;border-radius: 5px;margin-top:2%;background-color:gainsboro;}
+    
+    .login{text-align: center; background-color: blue;padding:2%;   font-size:15px; width: 96%; height:30%;border-radius: 3px; } 
+    a{text-decoration:none;color: white; 
+    font-size:15px;font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+    .new{text-align: center;background-color:green;padding:1%; width:10%; margin:auto; border:1%; border-radius: 3px;}
+    .hr-lines{position: relative;
+    max-width: 90%;
+margin:100px auto;
+text-align: center;}
+.hr-lines:before{content:"";
+height: 2px;
+width:48%;
+background:grey;
+display:block;
+position: absolute;
+top: 50%;
+left:0;}
+.hr-lines::after{content:"";
+height: 2px;
+width:48%;
+background:grey;
+display:block;
+position: absolute;
+top: 50%;
+right:0;
+}
+
+h5{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;color:black;}
+
+
+    
